@@ -3,6 +3,7 @@
 #include <iostream>
 #include <math.h>
 #include <stdlib.h>
+// Changes...
 
 
 const int width = 1000;
